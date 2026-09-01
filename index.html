@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DriveDex — Legal & Compliance</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --border: #334155;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent: #f59e0b;
+      --accent-hover: #d97706;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 1.5rem;
+    }
+
+    .container {
+      max-width: 500px;
+      width: 100%;
+      background-color: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 1rem;
+      padding: 2rem;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 900;
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.025em;
+    }
+
+    h1 span {
+      color: var(--accent);
+    }
+
+    p.subtitle {
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      margin-bottom: 2rem;
+    }
+
+    .links {
+      display: flex;
+      flex-direction: column;
+      gap: 0.875rem;
+    }
+
+    .btn {
+      display: block;
+      padding: 0.875rem 1.25rem;
+      background-color: #020617;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 0.75rem;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+      transition: all 0.2s ease;
+    }
+
+    .btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      transform: translateY(-2px);
+    }
+
+    footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Drive<span>Dex</span></h1>
+    <p class="subtitle">Legal Terms, Privacy & Official Sweepstakes Rules</p>
+
+    <div class="links">
+      <a href="DriveDex-Privacy-Policy.md" class="btn">Privacy Policy</a>
+      <a href="DriveDex-Terms-of-Service.md" class="btn">Terms of Service</a>
+      <a href="Raffle-Rules.md" class="btn">Official Raffle Rules</a>
+    </div>
+
+    <footer>
+      DriveDex v1.0 • Zurich, Switzerland<br />
+      Contact: aasim.sheik.988@gmail.com
+    </footer>
+  </div>
+
+</body>
+</html>

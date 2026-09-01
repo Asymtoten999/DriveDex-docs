@@ -20,8 +20,8 @@ Employees, contractors, directors, and officers of the Sponsor, as well as their
 
 ---
 
-### 3. Entry Period
-The Entry Period begins on **September 1, 2026 at 00:00 CEST** and ends on **October 25, 2026 at 23:59 CEST** ("Entry Period"). Entries submitted outside the Entry Period will be void.
+### 3. Entry Period and Drawing Schedule
+The Sweepstakes is an ongoing promotion within the DriveDex mobile application. The specific start date, end date, and drawing time for the Auto Zürich ticket giveaway will be explicitly displayed within the App’s Shop/Raffle section ("Entry Period"). Entries submitted outside the designated active Entry Period will be void.
 
 ---
 
@@ -31,8 +31,8 @@ There are two (2) ways to enter the Sweepstakes:
 1. **In-App Method (Digital Entry):**
    * Download and launch the DriveDex mobile application.
    * Create or log into your verified account.
-   * Watch a rewarded video advertisement to completion in the Shop/Raffle section, or redeem accrued Spotter Points for a Raffle ticket.
-   * Each completed ad view or point redemption grants one (1) entry into the current drawing, up to any daily cap displayed within the App.
+   * **Ad-View Method:** Watch a rewarded video advertisement to completion in the Shop/Raffle section to earn one (1) raffle entry. **Limit of five (5) ad-rewarded raffle entries per user per day.**
+   * **Points Redemption Method:** Redeem 10,000 accrued Spotter Points in the Shop to receive one (1) raffle entry.
 
 2. **Alternate Method of Entry (AMOE / Mail-In Free Entry):**
    * To enter without watching advertisements or spending in-app points, hand-print your full legal name, valid email address, phone number, mailing address, and your DriveDex account username on a standard 3x5 inch index card.
@@ -41,7 +41,7 @@ There are two (2) ways to enter the Sweepstakes:
      > Aasim Nawaz Sheik  
      > Eggbergstrasse 5  
      > 8193 Eglisau / Zurich, Switzerland
-   * Each valid mail-in request receives one (1) entry into the drawing. Mail-in entries must be postmarked before the end of the Entry Period and received no later than three (3) days prior to the drawing date. Limit one mail-in entry per outer envelope.
+   * Each valid mail-in request receives one (1) entry into the active drawing. Mail-in entries must be postmarked prior to the scheduled drawing date displayed in the App and received no later than three (3) business days before the drawing. Limit one mail-in entry per outer envelope.
 
 ---
 
@@ -53,7 +53,7 @@ There are two (2) ways to enter the Sweepstakes:
 ---
 
 ### 6. Odds of Winning
-The odds of winning depend entirely upon the total number of eligible entries received across both the In-App Method and the Alternate Method of Entry during the Entry Period.
+The odds of winning depend entirely upon the total number of eligible entries received across both the In-App Method and the Alternate Method of Entry prior to the active drawing deadline.
 
 ---
 
